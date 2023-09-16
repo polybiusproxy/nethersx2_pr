@@ -3958,9 +3958,9 @@ SCES-50408:
   name: "PaRappa the Rapper 2"
   region: "PAL-M5"
   compat: 5
-  speedHacks:
-    InstantVU1SpeedHack: 0 # Fixes noodles.
-    MTVUSpeedHack: 0
+  # speedHacks:
+    # InstantVU1SpeedHack: 0 # Fixes noodles.
+    # MTVUSpeedHack: 0
   gsHWFixes:
     mipmap: 2 # Fixes missing floor texture.
     trilinearFiltering: 1 # Fixes fog effect.
@@ -7094,9 +7094,9 @@ SCPS-15016:
 SCPS-15017:
   name: "PaRappa the Rapper 2"
   region: "NTSC-J"
-  speedHacks:
-    InstantVU1SpeedHack: 0 # Fixes noodles.
-    MTVUSpeedHack: 0
+  # speedHacks:
+    # InstantVU1SpeedHack: 0 # Fixes noodles.
+    # MTVUSpeedHack: 0
   gsHWFixes:
     mipmap: 2 # Fixes missing floor texture.
     trilinearFiltering: 1 # Fixes fog effect.
@@ -7771,9 +7771,9 @@ SCPS-19153:
 SCPS-19201:
   name: "PaRappa the Rapper 2 [PlayStation 2 The Best]"
   region: "NTSC-J"
-  speedHacks:
-    InstantVU1SpeedHack: 0 # Fixes noodles.
-    MTVUSpeedHack: 0
+  # speedHacks:
+    # InstantVU1SpeedHack: 0 # Fixes noodles.
+    # MTVUSpeedHack: 0
   gsHWFixes:
     mipmap: 2 # Fixes missing floor texture.
     trilinearFiltering: 1 # Fixes fog effect.
@@ -8893,9 +8893,9 @@ SCUS-97167:
   name: "PaRappa the Rapper 2"
   region: "NTSC-U"
   compat: 5
-  speedHacks:
-    InstantVU1SpeedHack: 0 # Fixes noodles.
-    MTVUSpeedHack: 0
+  # speedHacks:
+    # InstantVU1SpeedHack: 0 # Fixes noodles.
+    # MTVUSpeedHack: 0
   gsHWFixes:
     mipmap: 2 # Fixes missing floor texture.
     trilinearFiltering: 1 # Fixes fog effect.
